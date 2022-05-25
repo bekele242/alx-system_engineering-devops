@@ -1,1 +1,1 @@
-display the content of u diecto in long format
+diaplay the content list of your current directory in a long format
