@@ -1,1 +1,1 @@
-list all digit
+display curront directory content
