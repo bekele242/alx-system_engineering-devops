@@ -1,1 +1,1 @@
-list files with digit
+creat a script tht creats a directory
