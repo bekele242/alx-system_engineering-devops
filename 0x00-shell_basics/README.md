@@ -1,1 +1,1 @@
-display curront directory content
+display file content
