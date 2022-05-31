@@ -1,1 +1,1 @@
-count path
+local var
