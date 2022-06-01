@@ -1,1 +1,1 @@
- script to create global var
+True knowledge
