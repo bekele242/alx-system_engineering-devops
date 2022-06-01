@@ -1,1 +1,1 @@
-script float
+float
