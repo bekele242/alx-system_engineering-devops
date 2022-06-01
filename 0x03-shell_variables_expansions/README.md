@@ -1,1 +1,1 @@
-script path
+3 pat 
