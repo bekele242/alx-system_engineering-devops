@@ -1,1 +1,1 @@
-create local var
+ script to create global var
