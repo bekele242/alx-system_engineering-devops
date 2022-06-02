@@ -1,1 +1,1 @@
-create user betty
+who am I
