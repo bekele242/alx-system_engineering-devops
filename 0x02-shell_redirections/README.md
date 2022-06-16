@@ -1,1 +1,1 @@
-hello world task
+script hello world
